@@ -15,7 +15,7 @@
    viewBox="0 0 1052.3622 744.09448"
    id="svg2"
    version="1.1"
-   inkscape:version="0.91 r13725"
+   inkscape:version="0.92.2 2405546, 2018-03-11"
    sodipodi:docname="dsw_rollfold_side1.svg"
    enable-background="new">
   <defs
@@ -516,9 +516,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.49497475"
-     inkscape:cx="640.68797"
-     inkscape:cy="415.19258"
+     inkscape:zoom="1.4"
+     inkscape:cx="605.01967"
+     inkscape:cy="290.33072"
      inkscape:document-units="px"
      inkscape:current-layer="layer2"
      showgrid="false"
@@ -570,52 +570,48 @@
        y="308.26773" />
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:15px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="270.72086"
        y="215.95592"
-       id="text4169"
-       sodipodi:linespacing="125%"><tspan
+       id="text4169"><tspan
          sodipodi:role="line"
          id="tspan4171"
          x="270.72086"
          y="215.95592"
-         style="font-size:50px">Roll fold (outer side)</tspan></text>
+         style="font-size:50px;line-height:1.25">Roll fold (outer side)</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:15px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="460.62958"
        y="288.68686"
-       id="text4173"
-       sodipodi:linespacing="125%"><tspan
+       id="text4173"><tspan
          sodipodi:role="line"
          id="tspan4175"
          x="460.62958"
          y="288.68686"
-         style="font-size:35px">Back</tspan></text>
+         style="font-size:35px;line-height:1.25">Back</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:15px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="132.68903"
        y="290.38104"
-       id="text4173-0"
-       sodipodi:linespacing="125%"><tspan
+       id="text4173-0"><tspan
          sodipodi:role="line"
          id="tspan4175-2"
          x="132.68903"
          y="290.38104"
-         style="font-size:35px">Flap</tspan></text>
+         style="font-size:35px;line-height:1.25">Flap</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:15px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="825.65369"
        y="288.36075"
-       id="text4173-1"
-       sodipodi:linespacing="125%"><tspan
+       id="text4173-1"><tspan
          sodipodi:role="line"
          id="tspan4175-5"
          x="825.65369"
          y="288.36075"
-         style="font-size:35px">Front</tspan></text>
+         style="font-size:35px;line-height:1.25">Front</tspan></text>
     <rect
        style="opacity:1;fill:#00aa00;fill-opacity:1;stroke:none;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="rect4252"
@@ -645,11 +641,10 @@
      style="display:inline">
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.51861858px;line-height:100%;font-family:Corbel;-inkscape-font-specification:Corbel;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ff6600;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0%;font-family:Corbel;-inkscape-font-specification:Corbel;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ff6600;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="875.88782"
        y="323.48035"
-       id="text4150"
-       sodipodi:linespacing="100%"><tspan
+       id="text4150"><tspan
          sodipodi:role="line"
          id="tspan4152"
          x="881.45215"
@@ -680,16 +675,15 @@
        y="42.706123" />
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:15px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="850"
        y="164.0945"
-       id="text4168"
-       sodipodi:linespacing="125%"><tspan
+       id="text4168"><tspan
          sodipodi:role="line"
          id="tspan4170"
          x="850"
          y="164.0945"
-         style="font-size:30px;fill:#ff0000">logo</tspan></text>
+         style="font-size:30px;line-height:1.25;fill:#ff0000">logo</tspan></text>
     <g
        id="surface100519"
        transform="matrix(0.13903365,0,0,0.13903365,908.00785,534.68752)">
@@ -1129,25 +1123,23 @@
        id="g3760"
        transform="translate(-1.7019501,155.17769)">
       <text
-         sodipodi:linespacing="125%"
          id="text3738"
          y="546.82037"
          x="361.01157"
-         style="font-style:normal;font-weight:normal;font-size:15px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          xml:space="preserve"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25px;font-family:Corbel;-inkscape-font-specification:Corbel"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25px;line-height:1.25;font-family:Corbel;-inkscape-font-specification:Corbel"
            y="546.82037"
            x="361.01157"
            id="tspan3740"
            sodipodi:role="line">Marek Suchánek</tspan></text>
       <text
-         sodipodi:linespacing="125%"
          id="text3738-6"
          y="572.09473"
          x="414.52234"
-         style="font-style:normal;font-weight:normal;font-size:15px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000080;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000080;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          xml:space="preserve"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22.5px;font-family:Corbel;-inkscape-font-specification:Corbel;fill:#000080"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22.5px;line-height:1.25;font-family:Corbel;-inkscape-font-specification:Corbel;fill:#000080"
            y="572.09473"
            x="414.52234"
            id="tspan3740-5"
@@ -1157,25 +1149,23 @@
        transform="translate(-5.4264832,94.359164)"
        id="g3760-3">
       <text
-         sodipodi:linespacing="125%"
          id="text3738-3"
          y="546.82037"
          x="365.01157"
-         style="font-style:normal;font-weight:normal;font-size:15px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          xml:space="preserve"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25px;font-family:Corbel;-inkscape-font-specification:Corbel"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25px;line-height:1.25;font-family:Corbel;-inkscape-font-specification:Corbel"
            y="546.82037"
            x="365.01157"
            id="tspan3740-9"
            sodipodi:role="line">Robert Pergl</tspan></text>
       <text
-         sodipodi:linespacing="125%"
          id="text3738-6-4"
          y="573.12518"
          x="458.92844"
-         style="font-style:normal;font-weight:normal;font-size:15px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000080;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000080;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          xml:space="preserve"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22.5px;font-family:Corbel;-inkscape-font-specification:Corbel;fill:#000080"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22.5px;line-height:1.25;font-family:Corbel;-inkscape-font-specification:Corbel;fill:#000080"
            y="573.12518"
            x="458.92844"
            id="tspan3740-5-0"
@@ -1183,28 +1173,26 @@
     </g>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:19.56264687px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="350.17816"
        y="512.80151"
-       id="text3793"
-       sodipodi:linespacing="125%"><tspan
+       id="text3793"><tspan
          sodipodi:role="line"
          id="tspan3795"
          x="350.17816"
          y="512.80151"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:27.5px;font-family:Corbel;-inkscape-font-specification:'Corbel Bold'">info@dsw.fairdata.solutions</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:27.5px;line-height:1.25;font-family:Corbel;-inkscape-font-specification:'Corbel Bold'">info@dsw.fairdata.solutions</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:15px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="351.242"
        y="474.94717"
-       id="text3797"
-       sodipodi:linespacing="125%"><tspan
+       id="text3797"><tspan
          sodipodi:role="line"
          id="tspan3799"
          x="351.242"
          y="474.94717"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Corbel;-inkscape-font-specification:Corbel"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:1.25;font-family:Corbel;-inkscape-font-specification:Corbel"><tspan
            style="font-size:20px"
            id="tspan3803">github.com/</tspan><tspan
            style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:22.5px;font-family:Corbel;-inkscape-font-specification:'Corbel Bold'"
@@ -1406,25 +1394,23 @@
        transform="translate(-1.0655365,35.206994)"
        id="g3760-3-0">
       <text
-         sodipodi:linespacing="125%"
          id="text3738-3-8"
          y="546.82037"
          x="361.01157"
-         style="font-style:normal;font-weight:normal;font-size:15px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          xml:space="preserve"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25px;font-family:Corbel;-inkscape-font-specification:Corbel"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25px;line-height:1.25;font-family:Corbel;-inkscape-font-specification:Corbel"
            y="546.82037"
            x="361.01157"
            id="tspan3740-9-2"
            sodipodi:role="line">Rob Hooft</tspan></text>
       <text
-         sodipodi:linespacing="125%"
          id="text3738-6-4-8"
          y="573.12518"
          x="512.92847"
-         style="font-style:normal;font-weight:normal;font-size:15px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000080;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000080;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          xml:space="preserve"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22.5px;font-family:Corbel;-inkscape-font-specification:Corbel;fill:#000080"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22.5px;line-height:1.25;font-family:Corbel;-inkscape-font-specification:Corbel;fill:#000080"
            y="573.12518"
            x="512.92847"
            id="tspan3740-5-0-3"
@@ -1440,27 +1426,25 @@
        width="211.60034" />
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:15px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="375.74274"
        y="215.27708"
-       id="text3761"
-       sodipodi:linespacing="125%"><tspan
+       id="text3761"><tspan
          sodipodi:role="line"
          id="tspan3763"
          x="375.74274"
          y="215.27708"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30px;font-family:Corbel;-inkscape-font-specification:'Corbel Bold'">dsw.fairdata.solutions</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30px;line-height:1.25;font-family:Corbel;-inkscape-font-specification:'Corbel Bold'">dsw.fairdata.solutions</tspan></text>
     <g
        id="g5381"
        transform="translate(-10.428688,50)">
       <text
-         sodipodi:linespacing="125%"
          id="text3767"
          y="57.190758"
          x="448.71078"
-         style="font-style:normal;font-weight:normal;font-size:15px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          xml:space="preserve"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22.5px;font-family:Corbel;-inkscape-font-specification:Corbel;fill:#000000"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22.5px;line-height:1.25;font-family:Corbel;-inkscape-font-specification:Corbel;fill:#000000"
            y="57.190758"
            x="448.71078"
            id="tspan3769"
@@ -1475,13 +1459,12 @@
        transform="translate(-22.428688,80.245633)"
        id="g5381-9">
       <text
-         sodipodi:linespacing="125%"
          id="text3767-5"
          y="57.190758"
          x="460.71078"
-         style="font-style:normal;font-weight:normal;font-size:15px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          xml:space="preserve"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22.5px;font-family:Corbel;-inkscape-font-specification:Corbel;fill:#000000"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22.5px;line-height:1.25;font-family:Corbel;-inkscape-font-specification:Corbel;fill:#000000"
            y="57.190758"
            x="460.71078"
            id="tspan3769-8"
@@ -1496,13 +1479,12 @@
        transform="translate(-22.428688,110.49125)"
        id="g5381-94">
       <text
-         sodipodi:linespacing="125%"
          id="text3767-8"
          y="57.190758"
          x="458.71078"
-         style="font-style:normal;font-weight:normal;font-size:15px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          xml:space="preserve"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22.5px;font-family:Corbel;-inkscape-font-specification:Corbel;fill:#000000"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:22.5px;line-height:1.25;font-family:Corbel;-inkscape-font-specification:Corbel;fill:#000000"
            y="57.190758"
            x="458.71078"
            id="tspan3769-3"
@@ -1515,19 +1497,19 @@
     </g>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:15px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="82.85714"
        y="169.80878"
-       id="text4469"
-       sodipodi:linespacing="125%"><tspan
+       id="text4469"><tspan
          sodipodi:role="line"
          id="tspan4471"
          x="82.85714"
-         y="169.80878" /></text>
+         y="169.80878"
+         style="font-size:15px;line-height:1.25"> </tspan></text>
     <flowRoot
        xml:space="preserve"
        id="flowRoot4473"
-       style="font-style:normal;font-weight:normal;font-size:16.43516731px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"><flowRegion
+       style="font-style:normal;font-weight:normal;line-height:0.01%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"><flowRegion
          id="flowRegion4475"><rect
            id="rect4477"
            width="307.69089"
@@ -1535,11 +1517,11 @@
            x="17.866457"
            y="84.694649" /></flowRegion><flowPara
          id="flowPara4479"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.25px;font-family:Corbel;-inkscape-font-specification:Corbel;text-align:justify;text-anchor:start">The <flowSpan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.25px;line-height:1.25;font-family:Corbel;-inkscape-font-specification:Corbel;text-align:justify;text-anchor:start">The <flowSpan
    style="font-weight:bold;font-size:16.25px"
-   id="flowSpan4492">Data Stewardship Wizard</flowSpan> is a joint ELIXIR CZ and ELIXIR NL project bringing a smart solution for researchers to help them understand what is needed for good (<flowSpan
+   id="flowSpan4492">Data Stewardship Wizard</flowSpan> is a joint ELIXIR CZ and ELIXIR NL project bringing a smart solution for researchers to help them understand what is needed for a good (<flowSpan
    style="font-weight:bold;font-size:16.25px"
-   id="flowSpan4494">FAIR</flowSpan> based) Data Stewardship, to find ELIXIR experts to help out, and to build their own <flowSpan
+   id="flowSpan4494">FAIR-</flowSpan> based) Data Stewardship, to find ELIXIR experts to help out, and to build their own <flowSpan
    style="font-weight:bold;font-size:16.25px"
    id="flowSpan4496">Data Management Plans</flowSpan>.</flowPara></flowRoot>    <image
        y="235.96928"
@@ -1552,27 +1534,29 @@
     <flowRoot
        xml:space="preserve"
        id="flowRoot4520"
-       style="font-style:normal;font-weight:normal;font-size:15px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"><flowRegion
+       style="font-style:normal;font-weight:normal;line-height:0.01%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"><flowRegion
          id="flowRegion4522"><rect
            id="rect4524"
            width="288.57144"
            height="211.42857"
            x="27.142857"
            y="316.95163" /></flowRegion><flowPara
-         id="flowPara4526" /></flowRoot>    <flowRoot
+         id="flowPara4526"
+         style="font-size:15px;line-height:1.25"> </flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot4539"
-       style="font-style:normal;font-weight:normal;font-size:15px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"><flowRegion
+       style="font-style:normal;font-weight:normal;line-height:0.01%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"><flowRegion
          id="flowRegion4541"><rect
            id="rect4543"
            width="290"
            height="235.71428"
            x="25.714285"
            y="296.95163" /></flowRegion><flowPara
-         id="flowPara4545" /></flowRoot>    <flowRoot
+         id="flowPara4545"
+         style="font-size:15px;line-height:1.25"> </flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot4559"
-       style="font-style:normal;font-weight:normal;font-size:15px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:normal;font-weight:normal;line-height:0.01%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        transform="translate(0.27347829,52.827407)"><flowRegion
          id="flowRegion4561"><rect
            id="rect4563"
@@ -1580,29 +1564,28 @@
            height="268.70059"
            x="17.172594"
            y="296.59692" /></flowRegion><flowPara
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.25px;font-family:Corbel;-inkscape-font-specification:Corbel;text-align:justify;text-anchor:start"
-         id="flowPara4596">Our new generation Data Stewardship Wizard is a modern modular portal solution that is hosted by ELIXIR CZ, but it can be also easily deployed locally within your organization. It supports whole flow from specifying Data Stewardship knowledge through filling up specific project information to getting the FAIR Data Management Plan.</flowPara><flowPara
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.25px;font-family:Corbel;-inkscape-font-specification:Corbel;text-align:justify;text-anchor:start"
-         id="flowPara4607" /><flowPara
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.25px;font-family:Corbel;-inkscape-font-specification:Corbel;text-align:justify;text-anchor:start"
-         id="flowPara4609" /><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.25px;line-height:1.25;font-family:Corbel;-inkscape-font-specification:Corbel;text-align:justify;text-anchor:start"
+         id="flowPara4596">Our second-generation Data Stewardship Wizard is a modern modular portal solution that is hosted by ELIXIR CZ, but it can be also deployed locally in your organization. It supports the whole flow from specifying Data Stewardship knowledge through filling up specific project information to getting the FAIR Data Management Plan.</flowPara><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.25px;line-height:1.25;font-family:Corbel;-inkscape-font-specification:Corbel;text-align:justify;text-anchor:start"
+         id="flowPara4607"> </flowPara><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.25px;line-height:1.25;font-family:Corbel;-inkscape-font-specification:Corbel;text-align:justify;text-anchor:start"
+         id="flowPara4609"> </flowPara><flowPara
          id="flowPara4573"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Corbel;-inkscape-font-specification:Corbel;text-align:justify;text-anchor:start" /><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.25px;line-height:1.25;font-family:Corbel;-inkscape-font-specification:Corbel;text-align:justify;text-anchor:start"> </flowPara><flowPara
          id="flowPara4575"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Corbel;-inkscape-font-specification:Corbel;text-align:justify;text-anchor:start" /><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.25px;line-height:1.25;font-family:Corbel;-inkscape-font-specification:Corbel;text-align:justify;text-anchor:start"> </flowPara><flowPara
          id="flowPara4577"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Corbel;-inkscape-font-specification:Corbel;text-align:justify;text-anchor:start" /></flowRoot>    <text
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.25px;line-height:1.25;font-family:Corbel;-inkscape-font-specification:Corbel;text-align:justify;text-anchor:start"> </flowPara></flowRoot>    <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:15px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ff6600;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ff6600;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="53.023418"
        y="553.15283"
-       id="text4611"
-       sodipodi:linespacing="125%"><tspan
+       id="text4611"><tspan
          sodipodi:role="line"
          id="tspan4613"
          x="53.023418"
          y="553.15283"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:25px;font-family:Corbel;-inkscape-font-specification:'Corbel Bold'">Explore the DSW flow</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:25px;line-height:1.25;font-family:Corbel;-inkscape-font-specification:'Corbel Bold'">Explore the DSW flow</tspan></text>
     <path
        style="fill:#000080;fill-rule:evenodd;stroke:#000080;stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker5089)"
        d="m 301.67567,572.85078 -259.609197,0"
@@ -1611,7 +1594,7 @@
     <flowRoot
        xml:space="preserve"
        id="flowRoot9507"
-       style="font-style:normal;font-weight:normal;font-size:15px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:normal;font-weight:normal;line-height:0.01%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        transform="translate(0.39548756,33.335034)"><flowRegion
          id="flowRegion9509"><rect
            id="rect9511"
@@ -1620,34 +1603,32 @@
            x="18.182745"
            y="578.42944" /></flowRegion><flowPara
          id="flowPara9513"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.25px;font-family:Corbel;-inkscape-font-specification:Corbel;text-align:justify;text-anchor:start">The Wizard is being developed thanks to <flowSpan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.25px;line-height:1.25;font-family:Corbel;-inkscape-font-specification:Corbel;text-align:justify;text-anchor:start">The Wizard is being developed thanks to <flowSpan
    style="font-weight:bold"
    id="flowSpan9515">ELIXIR CZ</flowSpan> (esp. IOCB) and  18-month <flowSpan
    style="font-weight:bold"
    id="flowSpan9517">ELIXIR Implementation Study</flowSpan> of the ELIXIR Training Platform, which also covers an inventory of training materials and needs in the ELIXIR nodes, and setting up DM/DS trainings.</flowPara></flowRoot>    <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:21.41800117px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="73.65696"
        y="59.93644"
-       id="text9663"
-       sodipodi:linespacing="125%"><tspan
+       id="text9663"><tspan
          sodipodi:role="line"
          id="tspan9665"
          x="73.65696"
          y="59.93644"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:32.5px;font-family:Corbel;-inkscape-font-specification:'Corbel Bold';fill:#d45500">What is DSW?</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:32.5px;line-height:1.25;font-family:Corbel;-inkscape-font-specification:'Corbel Bold';fill:#d45500">What is DSW?</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:21.41800117px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="428.81525"
        y="59.671097"
-       id="text9663-6"
-       sodipodi:linespacing="125%"><tspan
+       id="text9663-6"><tspan
          sodipodi:role="line"
          id="tspan9665-3"
          x="428.81525"
          y="59.671097"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:32.5px;font-family:Corbel;-inkscape-font-specification:'Corbel Bold';fill:#d45500">Call to action</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:32.5px;line-height:1.25;font-family:Corbel;-inkscape-font-specification:'Corbel Bold';fill:#d45500">Call to action</tspan></text>
     <path
        style="display:inline;fill:#000080;fill-rule:evenodd;stroke:#000080;stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="m 650.10544,539.23735 -259.6092,0"
