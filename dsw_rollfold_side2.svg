@@ -787,8 +787,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.4"
-     inkscape:cx="773.74998"
-     inkscape:cy="251.34888"
+     inkscape:cx="770.06827"
+     inkscape:cy="222.77745"
      inkscape:document-units="px"
      inkscape:current-layer="layer2"
      showgrid="false"
@@ -1941,27 +1941,15 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:19.59173393px;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="947.09424"
-       y="607.56293"
+       x="949.23712"
+       y="610.42004"
        id="text5751"
        sodipodi:linespacing="0%"><tspan
          sodipodi:role="line"
          id="tspan5753"
-         x="947.09424"
-         y="607.56293"
+         x="949.23712"
+         y="610.42004"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:48.97933578px;line-height:1.25;font-family:Impact;-inkscape-font-specification:'Impact Condensed';fill:#d40000">FAIR</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:24.54005241px;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#008000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="900.36157"
-       y="395.72858"
-       id="text5755"
-       sodipodi:linespacing="0%"><tspan
-         sodipodi:role="line"
-         id="tspan5757"
-         x="900.36157"
-         y="395.72858"
-         style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30.67506599px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold Italic';fill:#008000">Profit</tspan></text>
     <path
        style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-start:url(#Arrow2Lstart)"
        d="M 503.13285,654.31819 618.25902,582.59736"
@@ -2022,58 +2010,58 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="752.88678"
-       y="427.33066"
+       x="782.88678"
+       y="413.75922"
        id="text4576"
        inkscape:export-xdpi="197"
        inkscape:export-ydpi="197"
        sodipodi:linespacing="0%"><tspan
          sodipodi:role="line"
          id="tspan4578"
-         x="752.88678"
-         y="427.33066"
+         x="782.88678"
+         y="413.75922"
          style="font-size:15px;line-height:1.25;fill:#0000ff">Publish</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="775.14777"
-       y="461.50208"
+       x="818.71918"
+       y="445.78778"
        id="text4576-7"
        inkscape:export-xdpi="197"
        inkscape:export-ydpi="197"
        sodipodi:linespacing="0%"><tspan
          sodipodi:role="line"
          id="tspan4578-2"
-         x="775.14777"
-         y="461.50208"
+         x="818.71918"
+         y="445.78778"
          style="font-size:15px;line-height:1.25;fill:#0000ff">Update</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="782.13751"
-       y="392.70151"
+       x="869.99463"
+       y="406.27295"
        id="text4576-7-9"
        inkscape:export-xdpi="197"
        inkscape:export-ydpi="197"
        sodipodi:linespacing="0%"><tspan
          sodipodi:role="line"
          id="tspan4578-2-6"
-         x="782.13751"
-         y="392.70151"
+         x="869.99463"
+         y="406.27295"
          style="font-size:15px;line-height:1.25;fill:#0000ff">Certify</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="747.15411"
-       y="493.43811"
+       x="759.29688"
+       y="471.29523"
        id="text4576-2-1"
        inkscape:export-xdpi="197"
        inkscape:export-ydpi="197"
        sodipodi:linespacing="0%"><tspan
          sodipodi:role="line"
          id="tspan4578-5-2"
-         x="747.15411"
-         y="493.43811"
+         x="759.29688"
+         y="471.29523"
          style="font-size:15px;line-height:1.25;fill:#0000ff">Discuss</tspan></text>
     <g
        id="g6821"
@@ -2517,7 +2505,7 @@
            y="349.73874" /></flowRegion><flowPara
          id="flowPara463" /></flowRoot>    <g
        id="g7072"
-       transform="translate(7.1461792,0)">
+       transform="translate(7.1461792,-5)">
       <g
          id="g4825"
          transform="matrix(0.17898511,0,0,0.17898511,883.45553,431.33952)">
@@ -2539,10 +2527,10 @@
                inkscape:connector-curvature="0" />
             <polygon
                id="polygon4837"
-               points="192.929,277.071 207.071,262.929 184.143,240 207.071,217.071 192.929,202.929 170,225.857 147.071,202.929 132.929,217.071 155.857,240 132.929,262.929 147.071,277.071 170,254.143 " />
+               points="207.071,262.929 184.143,240 207.071,217.071 192.929,202.929 170,225.857 147.071,202.929 132.929,217.071 155.857,240 132.929,262.929 147.071,277.071 170,254.143 192.929,277.071 " />
             <polygon
                id="polygon4839"
-               points="347.929,337.071 362.071,322.929 339.143,300 362.071,277.071 347.929,262.929 325,285.857 302.071,262.929 287.929,277.071 310.857,300 287.929,322.929 302.071,337.071 325,314.143 " />
+               points="362.071,322.929 339.143,300 362.071,277.071 347.929,262.929 325,285.857 302.071,262.929 287.929,277.071 310.857,300 287.929,322.929 302.071,337.071 325,314.143 347.929,337.071 " />
             <rect
                id="rect4841"
                height="20"
@@ -2664,25 +2652,19 @@
          id="tspan6690"
          x="742.57379"
          y="649.83417">...</tspan></text>
-    <path
-       style="fill:none;fill-rule:evenodd;stroke:#d4aa00;stroke-width:1.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker6724)"
-       d="m 862.83611,541.324 c 0,0 -108.71776,8.85746 -110.8517,-19.19905 -2.13394,-28.05652 67.4643,-6.4692 70.12871,-33.57143 2.6644,-27.10224 -64.67686,-3.98541 -65.04206,-31.01015 -0.36521,-27.02475 69.63736,-10.76186 70.90862,-34.66825 1.27127,-23.90639 -67.43236,-12.65429 -66.12654,-36.21936 1.30582,-23.56506 127.38436,-8.62219 127.38436,-8.62219"
-       id="path6716"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="czzzzzc" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="765.85095"
-       y="526.73181"
+       x="807.99384"
+       y="500.30322"
        id="text4576-2-1-4"
        inkscape:export-xdpi="197"
        inkscape:export-ydpi="197"
        sodipodi:linespacing="0%"><tspan
          sodipodi:role="line"
          id="tspan4578-5-2-1"
-         x="765.85095"
-         y="526.73181"
+         x="807.99384"
+         y="500.30322"
          style="font-size:15px;line-height:1.25;fill:#0000ff">Customize</tspan></text>
   </g>
 </svg>
