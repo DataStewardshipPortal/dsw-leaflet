@@ -1,0 +1,15 @@
+sudo: required
+dist: trusty
+before_install:
+- sudo apt-get -qq update && sudo apt-get install inkscape pdftk
+script:
+- mkdir _build
+- ./build.sh dsw_rollfold.pdf
+deploy:
+  provider: releases
+  api_key: $GH_TOKEN
+  file:
+  - _build/dsw_rollfold.pdf
+  skip_cleanup: true
+  on:
+    tags: true
