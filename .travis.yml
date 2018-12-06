@@ -1,0 +1,15 @@
+sudo: required
+dist: trusty
+before_install:
+- sudo apt-get -qq update && sudo apt-get install inkscape pdftk
+script:
+- mkdir _build
+- ./build.sh ds-wizard_leaflet_$TRAVIS_TAG.pdf
+deploy:
+  provider: releases
+  api_key: $GH_TOKEN
+  file:
+  - _build/ds-wizard_leaflet_$TRAVIS_TAG.pdf
+  skip_cleanup: true
+  on:
+    tags: true
