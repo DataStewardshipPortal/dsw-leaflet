@@ -3,6 +3,7 @@
 [![License: CC BY-SA 4.0](https://img.shields.io/github/license/DataStewardshipWizard/dsw-leaflet.svg)](LICENSE)
 [![Build Status](https://travis-ci.org/DataStewardshipWizard/dsw-leaflet.svg?branch=master)](https://travis-ci.org/DataStewardshipWizard/dsw-leaflet)
 [![GitHub release](https://img.shields.io/github/downloads/DataStewardshipWizard/dsw-leaflet/total.svg)](https://github.com/DataStewardshipWizard/dsw-leaflet/releases)
+[![DOI](https://zenodo.org/badge/125397270.svg)](https://zenodo.org/badge/latestdoi/125397270)
 
 Data Stewardship Wizard leaflet
 
