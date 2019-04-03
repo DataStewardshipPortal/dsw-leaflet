@@ -586,6 +586,21 @@
          style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#4d4948;stroke-width:1.00000003pt;stroke-opacity:1"
          transform="matrix(0.8,0,0,0.8,-4.8,0)" />
     </marker>
+    <marker
+       inkscape:stockid="EmptyTriangleOutL"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker1451-2-3-2-2"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         inkscape:connector-curvature="0"
+         id="path1449-9-1-2-5"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#4d4948;stroke-width:1.00000003pt;stroke-opacity:1"
+         transform="matrix(0.8,0,0,0.8,-4.8,0)" />
+    </marker>
   </defs>
   <sodipodi:namedview
      id="base"
@@ -594,9 +609,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.98994949"
-     inkscape:cx="97.398279"
-     inkscape:cy="447.05638"
+     inkscape:zoom="0.7"
+     inkscape:cx="497.4705"
+     inkscape:cy="387.96676"
      inkscape:document-units="px"
      inkscape:current-layer="layer2"
      showgrid="false"
@@ -653,7 +668,7 @@
      inkscape:groupmode="layer"
      id="layer1"
      transform="translate(0,-308.26772)"
-     style="display:none;opacity:0.49900004;filter:url(#filter4203)"
+     style="display:inline;opacity:0.49900004;filter:url(#filter4203)"
      sodipodi:insensitive="true">
     <rect
        style="opacity:1;fill:#d3bc5f;fill-opacity:1;stroke:none;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
@@ -5305,7 +5320,7 @@
     </g>
     <g
        id="g2518"
-       transform="translate(3.854527)">
+       transform="translate(3.854527,-210.238)">
       <path
          inkscape:export-ydpi="300"
          inkscape:export-xdpi="300"
@@ -6031,28 +6046,6 @@
          x="19.95944"
          y="118.13035"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:35.00000381px;line-height:1.25;font-family:Roboto;-inkscape-font-specification:'Roboto Bold';fill:#f15a24;fill-opacity:1;stroke-width:1px">Editor &amp; Migrations</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:12px;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="735.64307"
-       y="319.09235"
-       id="text3761-5"><tspan
-         sodipodi:role="line"
-         id="tspan3763-9"
-         x="735.64307"
-         y="319.09235"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:45px;line-height:1.25;font-family:Roboto;-inkscape-font-specification:'Roboto Bold';fill:#000000;fill-opacity:1;stroke-width:1px">ds-wizard.org</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:10.89592457px;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.90799367px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="753.7204"
-       y="249.34415"
-       id="text3761-5-2"><tspan
-         sodipodi:role="line"
-         id="tspan3763-9-5"
-         x="753.7204"
-         y="249.34415"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:36.31974792px;line-height:1.25;font-family:Roboto;-inkscape-font-specification:'Roboto Bold';fill:#000000;fill-opacity:1;stroke-width:0.90799367px">Introduction to</tspan></text>
     <g
        id="g21822"
        transform="translate(-1.2443696)">
@@ -6949,7 +6942,7 @@
        xml:space="preserve"
        id="flowRoot4195-4"
        style="font-style:normal;font-weight:normal;line-height:0.01%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       transform="translate(0.5074912,46.152469)"><flowRegion
+       transform="translate(0.71116551,426.85371)"><flowRegion
          id="flowRegion4197-2"><rect
            id="rect4199-4"
            width="308.4375"
@@ -6957,11 +6950,11 @@
            x="17.142857"
            y="98.380203" /></flowRegion><flowPara
          id="flowPara4201-2"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.25px;line-height:1.25;font-family:Roboto;-inkscape-font-specification:Roboto;text-align:justify;text-anchor:start">Knowledge models can be conveniently managed in the Wizard. Editor is a tool to interactively <flowSpan
-   style="font-weight:bold"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;line-height:1.25;font-family:Roboto;-inkscape-font-specification:Roboto;text-align:justify;text-anchor:start">Knowledge models can be conveniently managed in the Wizard. Editor is a tool to interactively <flowSpan
+   style="font-weight:bold;font-size:12.5px"
    id="flowSpan2536">create, edit, or delete</flowSpan> parts of a KM, including creating new KM from scratch or as a customization of existing one. After the changes are done, a new version of KM can be published with the use of <flowSpan
-   style="font-weight:bold"
-   id="flowSpan2538">semantic versioning</flowSpan>. In case that the parent KM of the customization gets updated, you can very easily migrate your customization by just picking the changes you want to adopt. Until you migrate, the published KM will be still available but marked as outdated. The updates get to all customizations in the KM forest in this efficient but simple way. </flowPara></flowRoot>    <text
+   style="font-weight:bold;font-size:12.5px"
+   id="flowSpan2538">semantic versioning</flowSpan>. In case that the parent KM of the customization gets updated, you can easily migrate your customization by just picking the changes you want to adopt. Until you migrate, the published KM will be still available but marked as outdated. The updates get to all customizations in the KM forest in this efficient but simple way. </flowPara></flowRoot>    <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:12.5px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.9375"
        x="363.23853"
@@ -6979,17 +6972,22 @@
      xml:space="preserve"
      style="font-style:normal;font-weight:normal;font-size:11.46825027px;line-height:1.25;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.86011881"
      x="875.41638"
-     y="371.96555"
+     y="283.47229"
      id="text19286"><tspan
        sodipodi:role="line"
        id="tspan19284"
-       x="875.41638"
-       y="371.96555"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:20.64285088px;font-family:ROboto;-inkscape-font-specification:'ROboto Bold';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke-width:0.86011881;">Smart Data Management Plans</tspan><tspan
+       x="879.16638"
+       y="283.47229"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30px;font-family:ROboto;-inkscape-font-specification:'ROboto Bold';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke-width:0.86011881">Tool for Smart Data </tspan><tspan
        sodipodi:role="line"
        x="875.41638"
-       y="397.7691"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:20.64285088px;font-family:ROboto;-inkscape-font-specification:'ROboto Bold';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke-width:0.86011881;"
+       y="320.97229"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30px;font-family:ROboto;-inkscape-font-specification:'ROboto Bold';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke-width:0.86011881"
+       id="tspan2418">Management Plans</tspan><tspan
+       sodipodi:role="line"
+       x="875.41638"
+       y="358.47229"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30px;font-family:ROboto;-inkscape-font-specification:'ROboto Bold';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke-width:0.86011881"
        id="tspan19288">for FAIR Open Science</tspan></text>
   <text
      xml:space="preserve"
