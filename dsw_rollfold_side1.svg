@@ -609,9 +609,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.7"
-     inkscape:cx="497.4705"
-     inkscape:cy="387.96676"
+     inkscape:zoom="1.4"
+     inkscape:cx="168.63226"
+     inkscape:cy="566.19686"
      inkscape:document-units="px"
      inkscape:current-layer="layer2"
      showgrid="false"
@@ -668,8 +668,7 @@
      inkscape:groupmode="layer"
      id="layer1"
      transform="translate(0,-308.26772)"
-     style="display:inline;opacity:0.49900004;filter:url(#filter4203)"
-     sodipodi:insensitive="true">
+     style="display:inline;opacity:0.49900004;filter:url(#filter4203)">
     <rect
        style="opacity:1;fill:#d3bc5f;fill-opacity:1;stroke:none;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="rect4136"
@@ -762,19 +761,8 @@
      id="layer2"
      inkscape:label="text"
      style="display:inline">
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:0%;font-family:Roboto;-inkscape-font-specification:'Roboto Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="398.81476"
-       y="46.874786"
-       id="text3793"><tspan
-         sodipodi:role="line"
-         id="tspan3795"
-         x="398.81476"
-         y="46.874786"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:27.5px;line-height:1.25;font-family:Roboto;-inkscape-font-specification:'Roboto Bold'">info@ds-wizard.org</tspan></text>
     <g
-       transform="matrix(0.77481478,0,0,0.77472808,446.24348,-8.7950885)"
+       transform="matrix(0.77481478,0,0,0.77472808,448.11848,519.95491)"
        id="g78"
        inkscape:export-filename="/mnt/hgfs/Bov/Documents/Work/2007/cc/identity/srr buttons/big/by-nd.png"
        inkscape:export-xdpi="300.23013"
@@ -6600,295 +6588,299 @@
        style="display:inline;fill:#f15a24;stroke-width:0.18165424"
        d="m 531.62376,321.41566 -3.05179,-5.40966 -5.47143,-1.60582 4.21438,-0.61762 -3.94191,-6.98643 -3.96186,-2.17985 3.81474,0.63579 8.32521,1.27158 -12.43606,-10.04548 c -0.61398,-0.59582 -1.5259,-0.32697 -1.84561,0.54497 l -3.19711,12.25076 4.44509,0.74841 -4.92284,1.08993 -2.75023,10.53595 8.17443,1.15895 -9.22076,1.47684 -11.52779,5.78206 c 0,0 7.57679,-0.34332 10.15448,-0.703 9.76209,-1.36785 16.9338,-1.50591 26.70317,-3.01728 1.70936,-0.26521 8.3343,-4.59222 8.3343,-4.59222 z"
        inkscape:connector-curvature="0" />
-    <path
-       style="fill:none;stroke:#4d4948;stroke-width:5.02565575;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 554.92655,643.95496 c 0,0 4.19166,-29.74937 -16.90384,-57.64221 -20.09667,-26.57213 -50.71668,-26.1631 -50.71668,-26.1631"
-       id="path4693"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="csc"
-       inkscape:export-filename="C:\Users\marek\Documents\dsw-diagrams\png\process_overview.png"
-       inkscape:export-xdpi="215"
-       inkscape:export-ydpi="215" />
-    <circle
-       style="opacity:1;fill:none;fill-opacity:1;stroke:#4d4948;stroke-width:8.37609291;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       id="path815"
-       cx="446.54541"
-       cy="593.45709"
-       r="51.48951"
-       inkscape:export-filename="C:\Users\marek\Documents\dsw-diagrams\png\process_overview.png"
-       inkscape:export-xdpi="215"
-       inkscape:export-ydpi="215" />
-    <path
-       style="fill:none;stroke:#4d4948;stroke-width:8.31742573;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="M 446.48622,644.94662 H 659.49885"
-       id="path817"
-       inkscape:connector-curvature="0"
-       inkscape:export-filename="C:\Users\marek\Documents\dsw-diagrams\png\process_overview.png"
-       inkscape:export-xdpi="215"
-       inkscape:export-ydpi="215" />
-    <circle
-       style="opacity:1;fill:#f15a24;fill-opacity:1;stroke:#ffffff;stroke-width:3.35043716;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       id="path819"
-       cx="487.24277"
-       cy="560.71948"
-       r="10.44768"
-       inkscape:export-filename="C:\Users\marek\Documents\dsw-diagrams\png\process_overview.png"
-       inkscape:export-xdpi="215"
-       inkscape:export-ydpi="215" />
-    <circle
-       style="opacity:1;fill:#f15a24;fill-opacity:1;stroke:#ffffff;stroke-width:3.35043716;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       id="path819-3"
-       cx="405.24423"
-       cy="560.71948"
-       r="10.44768"
-       inkscape:export-filename="C:\Users\marek\Documents\dsw-diagrams\png\process_overview.png"
-       inkscape:export-xdpi="215"
-       inkscape:export-ydpi="215" />
-    <circle
-       style="opacity:1;fill:#f15a24;fill-opacity:1;stroke:#ffffff;stroke-width:3.35043716;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       id="path819-4"
-       cx="447.73157"
-       cy="644.94666"
-       r="10.44768"
-       inkscape:export-filename="C:\Users\marek\Documents\dsw-diagrams\png\process_overview.png"
-       inkscape:export-xdpi="215"
-       inkscape:export-ydpi="215" />
-    <circle
-       style="opacity:1;fill:#f15a24;fill-opacity:1;stroke:#ffffff;stroke-width:3.35043716;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       id="path819-2"
-       cx="554.26611"
-       cy="644.94666"
-       r="10.44768"
-       inkscape:export-filename="C:\Users\marek\Documents\dsw-diagrams\png\process_overview.png"
-       inkscape:export-xdpi="215"
-       inkscape:export-ydpi="215" />
-    <circle
-       style="opacity:1;fill:#f15a24;fill-opacity:1;stroke:#ffffff;stroke-width:3.35043716;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       id="path819-6-6"
-       cx="660.80078"
-       cy="644.94666"
-       r="10.44768"
-       inkscape:export-filename="C:\Users\marek\Documents\dsw-diagrams\png\process_overview.png"
-       inkscape:export-xdpi="215"
-       inkscape:export-ydpi="215" />
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:5.90979862px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#f15a24;fill-opacity:1;stroke:none;stroke-width:0.44323489"
-       x="99.104744"
-       y="741.13763"
-       id="text856"
-       transform="rotate(-34.428448)"
-       inkscape:export-filename="C:\Users\marek\Documents\dsw-diagrams\png\process_overview.png"
-       inkscape:export-xdpi="215"
-       inkscape:export-ydpi="215"><tspan
-         sodipodi:role="line"
-         id="tspan854"
-         x="99.104744"
+    <g
+       id="g2476"
+       transform="matrix(0.94572415,0,0,0.94572415,24.483514,1.296791)">
+      <path
+         inkscape:export-ydpi="215"
+         inkscape:export-xdpi="215"
+         inkscape:export-filename="C:\Users\marek\Documents\dsw-diagrams\png\process_overview.png"
+         sodipodi:nodetypes="csc"
+         inkscape:connector-curvature="0"
+         id="path4693"
+         d="m 554.92655,643.95496 c 0,0 4.19166,-29.74937 -16.90384,-57.64221 -20.09667,-26.57213 -50.71668,-26.1631 -50.71668,-26.1631"
+         style="fill:none;stroke:#4d4948;stroke-width:5.02565575;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <circle
+         inkscape:export-ydpi="215"
+         inkscape:export-xdpi="215"
+         inkscape:export-filename="C:\Users\marek\Documents\dsw-diagrams\png\process_overview.png"
+         r="51.48951"
+         cy="593.45709"
+         cx="446.54541"
+         id="path815"
+         style="opacity:1;fill:none;fill-opacity:1;stroke:#4d4948;stroke-width:8.37609291;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <path
+         inkscape:export-ydpi="215"
+         inkscape:export-xdpi="215"
+         inkscape:export-filename="C:\Users\marek\Documents\dsw-diagrams\png\process_overview.png"
+         inkscape:connector-curvature="0"
+         id="path817"
+         d="M 446.48622,644.94662 H 659.49885"
+         style="fill:none;stroke:#4d4948;stroke-width:8.31742573;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <circle
+         inkscape:export-ydpi="215"
+         inkscape:export-xdpi="215"
+         inkscape:export-filename="C:\Users\marek\Documents\dsw-diagrams\png\process_overview.png"
+         r="10.44768"
+         cy="560.71948"
+         cx="487.24277"
+         id="path819"
+         style="opacity:1;fill:#f15a24;fill-opacity:1;stroke:#ffffff;stroke-width:3.35043716;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <circle
+         inkscape:export-ydpi="215"
+         inkscape:export-xdpi="215"
+         inkscape:export-filename="C:\Users\marek\Documents\dsw-diagrams\png\process_overview.png"
+         r="10.44768"
+         cy="560.71948"
+         cx="405.24423"
+         id="path819-3"
+         style="opacity:1;fill:#f15a24;fill-opacity:1;stroke:#ffffff;stroke-width:3.35043716;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <circle
+         inkscape:export-ydpi="215"
+         inkscape:export-xdpi="215"
+         inkscape:export-filename="C:\Users\marek\Documents\dsw-diagrams\png\process_overview.png"
+         r="10.44768"
+         cy="644.94666"
+         cx="447.73157"
+         id="path819-4"
+         style="opacity:1;fill:#f15a24;fill-opacity:1;stroke:#ffffff;stroke-width:3.35043716;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <circle
+         inkscape:export-ydpi="215"
+         inkscape:export-xdpi="215"
+         inkscape:export-filename="C:\Users\marek\Documents\dsw-diagrams\png\process_overview.png"
+         r="10.44768"
+         cy="644.94666"
+         cx="554.26611"
+         id="path819-2"
+         style="opacity:1;fill:#f15a24;fill-opacity:1;stroke:#ffffff;stroke-width:3.35043716;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <circle
+         inkscape:export-ydpi="215"
+         inkscape:export-xdpi="215"
+         inkscape:export-filename="C:\Users\marek\Documents\dsw-diagrams\png\process_overview.png"
+         r="10.44768"
+         cy="644.94666"
+         cx="660.80078"
+         id="path819-6-6"
+         style="opacity:1;fill:#f15a24;fill-opacity:1;stroke:#ffffff;stroke-width:3.35043716;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <text
+         inkscape:export-ydpi="215"
+         inkscape:export-xdpi="215"
+         inkscape:export-filename="C:\Users\marek\Documents\dsw-diagrams\png\process_overview.png"
+         transform="rotate(-34.428448)"
+         id="text856"
          y="741.13763"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16.54743958px;font-family:Roboto;-inkscape-font-specification:'Roboto Bold';fill:#f15a24;fill-opacity:1;stroke-width:0.44323489">Editor</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:5.90979862px;line-height:1.25;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#f15a24;fill-opacity:1;stroke:none;stroke-width:0.44323489"
-       x="-43.138035"
-       y="803.18945"
-       id="text856-7"
-       transform="rotate(-34.328193)"
-       inkscape:export-filename="C:\Users\marek\Documents\dsw-diagrams\png\process_overview.png"
-       inkscape:export-xdpi="215"
-       inkscape:export-ydpi="215"><tspan
-         sodipodi:role="line"
-         id="tspan854-2"
-         x="-43.138035"
+         x="99.104744"
+         style="font-style:normal;font-weight:normal;font-size:5.90979862px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#f15a24;fill-opacity:1;stroke:none;stroke-width:0.44323489"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16.54743958px;font-family:Roboto;-inkscape-font-specification:'Roboto Bold';fill:#f15a24;fill-opacity:1;stroke-width:0.44323489"
+           y="741.13763"
+           x="99.104744"
+           id="tspan854"
+           sodipodi:role="line">Editor</tspan></text>
+      <text
+         inkscape:export-ydpi="215"
+         inkscape:export-xdpi="215"
+         inkscape:export-filename="C:\Users\marek\Documents\dsw-diagrams\png\process_overview.png"
+         transform="rotate(-34.328193)"
+         id="text856-7"
          y="803.18945"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16.54743958px;font-family:Roboto;-inkscape-font-specification:'Roboto Bold';text-align:center;text-anchor:middle;fill:#f15a24;fill-opacity:1;stroke-width:0.44323489">Knowledge</tspan><tspan
-         sodipodi:role="line"
          x="-43.138035"
-         y="823.87378"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16.54743958px;font-family:Roboto;-inkscape-font-specification:'Roboto Bold';text-align:center;text-anchor:middle;fill:#f15a24;fill-opacity:1;stroke-width:0.44323489"
-         id="tspan876">Model</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:5.90979862px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#f15a24;fill-opacity:1;stroke:none;stroke-width:0.44323489"
-       x="-2.5079474"
-       y="674.35248"
-       id="text856-6"
-       transform="rotate(-34.783123)"
-       inkscape:export-filename="C:\Users\marek\Documents\dsw-diagrams\png\process_overview.png"
-       inkscape:export-xdpi="215"
-       inkscape:export-ydpi="215"><tspan
-         sodipodi:role="line"
-         id="tspan854-7"
-         x="-2.5079474"
+         style="font-style:normal;font-weight:normal;font-size:5.90979862px;line-height:1.25;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#f15a24;fill-opacity:1;stroke:none;stroke-width:0.44323489"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16.54743958px;font-family:Roboto;-inkscape-font-specification:'Roboto Bold';text-align:center;text-anchor:middle;fill:#f15a24;fill-opacity:1;stroke-width:0.44323489"
+           y="803.18945"
+           x="-43.138035"
+           id="tspan854-2"
+           sodipodi:role="line">Knowledge</tspan><tspan
+           id="tspan876"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16.54743958px;font-family:Roboto;-inkscape-font-specification:'Roboto Bold';text-align:center;text-anchor:middle;fill:#f15a24;fill-opacity:1;stroke-width:0.44323489"
+           y="823.87378"
+           x="-43.138035"
+           sodipodi:role="line">Model</tspan></text>
+      <text
+         inkscape:export-ydpi="215"
+         inkscape:export-xdpi="215"
+         inkscape:export-filename="C:\Users\marek\Documents\dsw-diagrams\png\process_overview.png"
+         transform="rotate(-34.783123)"
+         id="text856-6"
          y="674.35248"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16.54743958px;font-family:Roboto;-inkscape-font-specification:'Roboto Bold';fill:#f15a24;fill-opacity:1;stroke-width:0.44323489">Migration</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:5.90979862px;line-height:1.25;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#f15a24;fill-opacity:1;stroke:none;stroke-width:0.44323489"
-       x="33.435699"
-       y="864.85687"
-       id="text856-7-4"
-       transform="rotate(-34.474098)"
-       inkscape:export-filename="C:\Users\marek\Documents\dsw-diagrams\png\process_overview.png"
-       inkscape:export-xdpi="215"
-       inkscape:export-ydpi="215"><tspan
-         sodipodi:role="line"
-         x="33.435699"
+         x="-2.5079474"
+         style="font-style:normal;font-weight:normal;font-size:5.90979862px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#f15a24;fill-opacity:1;stroke:none;stroke-width:0.44323489"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16.54743958px;font-family:Roboto;-inkscape-font-specification:'Roboto Bold';fill:#f15a24;fill-opacity:1;stroke-width:0.44323489"
+           y="674.35248"
+           x="-2.5079474"
+           id="tspan854-7"
+           sodipodi:role="line">Migration</tspan></text>
+      <text
+         inkscape:export-ydpi="215"
+         inkscape:export-xdpi="215"
+         inkscape:export-filename="C:\Users\marek\Documents\dsw-diagrams\png\process_overview.png"
+         transform="rotate(-34.474098)"
+         id="text856-7-4"
          y="864.85687"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16.54743958px;font-family:Roboto;-inkscape-font-specification:'Roboto Bold';text-align:center;text-anchor:middle;fill:#f15a24;fill-opacity:1;stroke-width:0.44323489"
-         id="tspan876-3">Questionnaire</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:5.90979862px;line-height:1.25;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#f15a24;fill-opacity:1;stroke:none;stroke-width:0.44323489"
-       x="138.05954"
-       y="924.88879"
-       id="text856-7-4-3"
-       transform="rotate(-34.665975)"
-       inkscape:export-filename="C:\Users\marek\Documents\dsw-diagrams\png\process_overview.png"
-       inkscape:export-xdpi="215"
-       inkscape:export-ydpi="215"><tspan
-         sodipodi:role="line"
-         x="138.05954"
+         x="33.435699"
+         style="font-style:normal;font-weight:normal;font-size:5.90979862px;line-height:1.25;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#f15a24;fill-opacity:1;stroke:none;stroke-width:0.44323489"
+         xml:space="preserve"><tspan
+           id="tspan876-3"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16.54743958px;font-family:Roboto;-inkscape-font-specification:'Roboto Bold';text-align:center;text-anchor:middle;fill:#f15a24;fill-opacity:1;stroke-width:0.44323489"
+           y="864.85687"
+           x="33.435699"
+           sodipodi:role="line">Questionnaire</tspan></text>
+      <text
+         inkscape:export-ydpi="215"
+         inkscape:export-xdpi="215"
+         inkscape:export-filename="C:\Users\marek\Documents\dsw-diagrams\png\process_overview.png"
+         transform="rotate(-34.665975)"
+         id="text856-7-4-3"
          y="924.88879"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16.54743958px;font-family:Roboto;-inkscape-font-specification:'Roboto Bold';text-align:center;text-anchor:middle;fill:#f15a24;fill-opacity:1;stroke-width:0.44323489"
-         id="tspan876-3-9">DM Plan</tspan></text>
-    <path
-       style="fill:none;stroke:#ffffff;stroke-width:1.67521858;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 519.81668,639.03924 3.10364,5.3757 -3.22803,5.59101"
-       id="path937-8"
-       inkscape:connector-curvature="0"
-       inkscape:export-filename="C:\Users\marek\Documents\dsw-diagrams\png\process_overview.png"
-       inkscape:export-xdpi="215"
-       inkscape:export-ydpi="215" />
-    <path
-       style="fill:none;stroke:#ffffff;stroke-width:1.67521858;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 579.28923,639.35582 3.10365,5.3757 -3.22794,5.59101"
-       id="path937-7"
-       inkscape:connector-curvature="0"
-       inkscape:export-filename="C:\Users\marek\Documents\dsw-diagrams\png\process_overview.png"
-       inkscape:export-xdpi="215"
-       inkscape:export-ydpi="215" />
-    <path
-       style="fill:none;stroke:#ffffff;stroke-width:1.67521858;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 632.55661,639.35582 3.10365,5.3757 -3.22793,5.59101"
-       id="path937-8-7"
-       inkscape:connector-curvature="0"
-       inkscape:export-filename="C:\Users\marek\Documents\dsw-diagrams\png\process_overview.png"
-       inkscape:export-xdpi="215"
-       inkscape:export-ydpi="215" />
-    <path
-       style="fill:none;stroke:#ffffff;stroke-width:1.67521858;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 605.92297,639.35582 3.10365,5.3757 -3.22803,5.59101"
-       id="path937-7-6"
-       inkscape:connector-curvature="0"
-       inkscape:export-filename="C:\Users\marek\Documents\dsw-diagrams\png\process_overview.png"
-       inkscape:export-xdpi="215"
-       inkscape:export-ydpi="215" />
-    <path
-       style="fill:none;stroke:#ffffff;stroke-width:1.67521858;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 493.18293,639.19754 3.10365,5.37568 -3.22793,5.59101"
-       id="path937-1"
-       inkscape:connector-curvature="0"
-       inkscape:export-filename="C:\Users\marek\Documents\dsw-diagrams\png\process_overview.png"
-       inkscape:export-xdpi="215"
-       inkscape:export-ydpi="215" />
-    <g
-       id="g4667"
-       transform="matrix(1.6752186,0,0,1.6752186,358.13469,391.86999)"
-       inkscape:export-filename="C:\Users\marek\Documents\dsw-diagrams\png\process_overview.png"
-       inkscape:export-xdpi="215"
-       inkscape:export-ydpi="215">
+         x="138.05954"
+         style="font-style:normal;font-weight:normal;font-size:5.90979862px;line-height:1.25;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#f15a24;fill-opacity:1;stroke:none;stroke-width:0.44323489"
+         xml:space="preserve"><tspan
+           id="tspan876-3-9"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16.54743958px;font-family:Roboto;-inkscape-font-specification:'Roboto Bold';text-align:center;text-anchor:middle;fill:#f15a24;fill-opacity:1;stroke-width:0.44323489"
+           y="924.88879"
+           x="138.05954"
+           sodipodi:role="line">DM Plan</tspan></text>
       <path
+         inkscape:export-ydpi="215"
+         inkscape:export-xdpi="215"
+         inkscape:export-filename="C:\Users\marek\Documents\dsw-diagrams\png\process_overview.png"
          inkscape:connector-curvature="0"
-         id="path937-1-7"
-         d="m 73.930664,137.80118 3.646287,0.65908 1.302527,3.627"
-         style="fill:none;stroke:#ffffff;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+         id="path937-8"
+         d="m 519.81668,639.03924 3.10364,5.3757 -3.22803,5.59101"
+         style="fill:none;stroke:#ffffff;stroke-width:1.67521858;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
       <path
+         inkscape:export-ydpi="215"
+         inkscape:export-xdpi="215"
+         inkscape:export-filename="C:\Users\marek\Documents\dsw-diagrams\png\process_overview.png"
          inkscape:connector-curvature="0"
-         id="path937-1-7-5"
-         d="m 78.9353,128.23309 3.646933,-0.65551 2.486932,2.94395"
-         style="fill:none;stroke:#ffffff;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+         id="path937-7"
+         d="m 579.28923,639.35582 3.10365,5.3757 -3.22794,5.59101"
+         style="fill:none;stroke:#ffffff;stroke-width:1.67521858;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
       <path
+         inkscape:export-ydpi="215"
+         inkscape:export-xdpi="215"
+         inkscape:export-filename="C:\Users\marek\Documents\dsw-diagrams\png\process_overview.png"
          inkscape:connector-curvature="0"
-         id="path937-1-7-9"
-         d="m 80.255737,117.79404 2.967586,-2.21884 3.541762,1.51908"
-         style="fill:none;stroke:#ffffff;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-    </g>
-    <path
-       style="fill:none;stroke:#ffffff;stroke-width:1.67521858;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 462.0455,549.63099 -1.31762,-6.06588 4.77849,-4.34118"
-       id="path937-1-7-9-8"
-       inkscape:connector-curvature="0"
-       inkscape:export-filename="C:\Users\marek\Documents\dsw-diagrams\png\process_overview.png"
-       inkscape:export-xdpi="215"
-       inkscape:export-ydpi="215" />
-    <path
-       style="fill:none;stroke:#ffffff;stroke-width:1.67521858;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 438.00817,547.66872 -4.36528,-4.41306 1.70481,-6.22678"
-       id="path937-1-7-9-8-6"
-       inkscape:connector-curvature="0"
-       inkscape:export-filename="C:\Users\marek\Documents\dsw-diagrams\png\process_overview.png"
-       inkscape:export-xdpi="215"
-       inkscape:export-ydpi="215" />
-    <g
-       transform="matrix(-1.3088859,1.04555,-1.04555,-1.3088859,640.74604,695.69536)"
-       id="g4667-8"
-       style="stroke:#ffffff"
-       inkscape:export-filename="C:\Users\marek\Documents\dsw-diagrams\png\process_overview.png"
-       inkscape:export-xdpi="215"
-       inkscape:export-ydpi="215">
+         id="path937-8-7"
+         d="m 632.55661,639.35582 3.10365,5.3757 -3.22793,5.59101"
+         style="fill:none;stroke:#ffffff;stroke-width:1.67521858;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
       <path
+         inkscape:export-ydpi="215"
+         inkscape:export-xdpi="215"
+         inkscape:export-filename="C:\Users\marek\Documents\dsw-diagrams\png\process_overview.png"
          inkscape:connector-curvature="0"
-         id="path937-1-7-8"
-         d="m 73.930664,137.80118 3.646287,0.65908 1.302527,3.627"
-         style="fill:none;stroke:#ffffff;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+         id="path937-7-6"
+         d="m 605.92297,639.35582 3.10365,5.3757 -3.22803,5.59101"
+         style="fill:none;stroke:#ffffff;stroke-width:1.67521858;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
       <path
+         inkscape:export-ydpi="215"
+         inkscape:export-xdpi="215"
+         inkscape:export-filename="C:\Users\marek\Documents\dsw-diagrams\png\process_overview.png"
          inkscape:connector-curvature="0"
-         id="path937-1-7-5-4"
-         d="m 78.9353,128.23309 3.646933,-0.65551 2.486932,2.94395"
-         style="fill:none;stroke:#ffffff;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+         id="path937-1"
+         d="m 493.18293,639.19754 3.10365,5.37568 -3.22793,5.59101"
+         style="fill:none;stroke:#ffffff;stroke-width:1.67521858;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <g
+         inkscape:export-ydpi="215"
+         inkscape:export-xdpi="215"
+         inkscape:export-filename="C:\Users\marek\Documents\dsw-diagrams\png\process_overview.png"
+         transform="matrix(1.6752186,0,0,1.6752186,358.13469,391.86999)"
+         id="g4667">
+        <path
+           style="fill:none;stroke:#ffffff;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m 73.930664,137.80118 3.646287,0.65908 1.302527,3.627"
+           id="path937-1-7"
+           inkscape:connector-curvature="0" />
+        <path
+           style="fill:none;stroke:#ffffff;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m 78.9353,128.23309 3.646933,-0.65551 2.486932,2.94395"
+           id="path937-1-7-5"
+           inkscape:connector-curvature="0" />
+        <path
+           style="fill:none;stroke:#ffffff;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m 80.255737,117.79404 2.967586,-2.21884 3.541762,1.51908"
+           id="path937-1-7-9"
+           inkscape:connector-curvature="0" />
+      </g>
       <path
+         inkscape:export-ydpi="215"
+         inkscape:export-xdpi="215"
+         inkscape:export-filename="C:\Users\marek\Documents\dsw-diagrams\png\process_overview.png"
          inkscape:connector-curvature="0"
-         id="path937-1-7-9-82"
-         d="m 80.255737,117.79404 2.967586,-2.21884 3.541762,1.51908"
-         style="fill:none;stroke:#ffffff;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-    </g>
-    <g
-       transform="matrix(0.98893157,-1.352173,1.352173,0.98893157,289.53843,574.50153)"
-       id="g4667-83"
-       inkscape:export-filename="C:\Users\marek\Documents\dsw-diagrams\png\process_overview.png"
-       inkscape:export-xdpi="215"
-       inkscape:export-ydpi="215">
+         id="path937-1-7-9-8"
+         d="m 462.0455,549.63099 -1.31762,-6.06588 4.77849,-4.34118"
+         style="fill:none;stroke:#ffffff;stroke-width:1.67521858;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
       <path
+         inkscape:export-ydpi="215"
+         inkscape:export-xdpi="215"
+         inkscape:export-filename="C:\Users\marek\Documents\dsw-diagrams\png\process_overview.png"
          inkscape:connector-curvature="0"
-         id="path937-1-7-7"
-         d="m 70.470864,138.96543 3.660771,0.57319 1.38742,3.59538"
-         style="fill:none;stroke:#ffffff;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-      <path
-         inkscape:connector-curvature="0"
-         id="path937-1-7-5-46"
-         d="m 77.370424,127.22529 3.646933,-0.65551 2.486932,2.94395"
-         style="fill:none;stroke:#ffffff;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-      <path
-         inkscape:connector-curvature="0"
-         id="path937-1-7-9-0"
-         d="m 80.465931,115.1769 3.18835,-1.88792 3.358502,1.89001"
-         style="fill:none;stroke:#ffffff;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-    </g>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:5.90979862px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#4d4948;fill-opacity:1;stroke:none;stroke-width:0.44323489"
-       x="771.12164"
-       y="-57.643745"
-       id="text856-1"
-       transform="rotate(51.166468)"
-       inkscape:export-filename="C:\Users\marek\Documents\dsw-diagrams\png\process_overview.png"
-       inkscape:export-xdpi="215"
-       inkscape:export-ydpi="215"><tspan
-         sodipodi:role="line"
-         id="tspan854-1"
-         x="771.12164"
+         id="path937-1-7-9-8-6"
+         d="m 438.00817,547.66872 -4.36528,-4.41306 1.70481,-6.22678"
+         style="fill:none;stroke:#ffffff;stroke-width:1.67521858;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <g
+         inkscape:export-ydpi="215"
+         inkscape:export-xdpi="215"
+         inkscape:export-filename="C:\Users\marek\Documents\dsw-diagrams\png\process_overview.png"
+         style="stroke:#ffffff"
+         id="g4667-8"
+         transform="matrix(-1.3088859,1.04555,-1.04555,-1.3088859,640.74604,695.69536)">
+        <path
+           style="fill:none;stroke:#ffffff;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m 73.930664,137.80118 3.646287,0.65908 1.302527,3.627"
+           id="path937-1-7-8"
+           inkscape:connector-curvature="0" />
+        <path
+           style="fill:none;stroke:#ffffff;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m 78.9353,128.23309 3.646933,-0.65551 2.486932,2.94395"
+           id="path937-1-7-5-4"
+           inkscape:connector-curvature="0" />
+        <path
+           style="fill:none;stroke:#ffffff;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m 80.255737,117.79404 2.967586,-2.21884 3.541762,1.51908"
+           id="path937-1-7-9-82"
+           inkscape:connector-curvature="0" />
+      </g>
+      <g
+         inkscape:export-ydpi="215"
+         inkscape:export-xdpi="215"
+         inkscape:export-filename="C:\Users\marek\Documents\dsw-diagrams\png\process_overview.png"
+         id="g4667-83"
+         transform="matrix(0.98893157,-1.352173,1.352173,0.98893157,289.53843,574.50153)">
+        <path
+           style="fill:none;stroke:#ffffff;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m 70.470864,138.96543 3.660771,0.57319 1.38742,3.59538"
+           id="path937-1-7-7"
+           inkscape:connector-curvature="0" />
+        <path
+           style="fill:none;stroke:#ffffff;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m 77.370424,127.22529 3.646933,-0.65551 2.486932,2.94395"
+           id="path937-1-7-5-46"
+           inkscape:connector-curvature="0" />
+        <path
+           style="fill:none;stroke:#ffffff;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m 80.465931,115.1769 3.18835,-1.88792 3.358502,1.89001"
+           id="path937-1-7-9-0"
+           inkscape:connector-curvature="0" />
+      </g>
+      <text
+         inkscape:export-ydpi="215"
+         inkscape:export-xdpi="215"
+         inkscape:export-filename="C:\Users\marek\Documents\dsw-diagrams\png\process_overview.png"
+         transform="rotate(51.166468)"
+         id="text856-1"
          y="-57.643745"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:11.81959724px;font-family:Roboto;-inkscape-font-specification:'Roboto Bold';fill:#4d4948;fill-opacity:1;stroke-width:0.44323489">Feedback</tspan></text>
+         x="771.12164"
+         style="font-style:normal;font-weight:normal;font-size:5.90979862px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#4d4948;fill-opacity:1;stroke:none;stroke-width:0.44323489"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:11.81959724px;font-family:Roboto;-inkscape-font-specification:'Roboto Bold';fill:#4d4948;fill-opacity:1;stroke-width:0.44323489"
+           y="-57.643745"
+           x="771.12164"
+           id="tspan854-1"
+           sodipodi:role="line">Feedback</tspan></text>
+    </g>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:10.89592552px;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.90799367px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -6900,44 +6892,6 @@
          x="380.48651"
          y="479.62173"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:36.31974792px;line-height:1.25;font-family:Roboto;-inkscape-font-specification:'Roboto Bold';fill:#000000;fill-opacity:1;stroke-width:0.90799367px" /></text>
-    <g
-       id="g21692"
-       transform="translate(6.6928897,1.875)">
-      <text
-         id="text3797"
-         y="137.06485"
-         x="449.50687"
-         style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         xml:space="preserve"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:20px;line-height:1.25;font-family:Roboto;-inkscape-font-specification:'Roboto Bold'"
-           y="137.06485"
-           x="449.50687"
-           id="tspan3799"
-           sodipodi:role="line"><tspan
-   id="tspan3803"
-   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;font-family:Roboto;-inkscape-font-specification:'Roboto Bold'">github.com/</tspan>ds-wizard</tspan></text>
-      <text
-         id="text3797-2"
-         y="85.406242"
-         x="449.90726"
-         style="font-style:normal;font-weight:normal;font-size:12px;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         xml:space="preserve"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:20px;line-height:1.25;font-family:Roboto;-inkscape-font-specification:'Roboto Bold';stroke-width:1px"
-           y="85.406242"
-           x="449.90726"
-           id="tspan3799-5"
-           sodipodi:role="line">docs.ds-wizard.org</tspan></text>
-      <path
-         id="Fill-1"
-         d="m 400.51176,90.761074 c 0.72851,0 1.32119,0.59162 1.32119,1.318539 0,0.726593 -0.59268,1.318213 -1.32119,1.318213 -0.72821,0 -1.32088,-0.59162 -1.32088,-1.318213 0,-0.726919 0.59267,-1.318539 1.32088,-1.318539 m 20.74379,-8.166719 c -0.72852,0 -1.32119,-0.591627 -1.32119,-1.318547 0,-0.726911 0.59267,-1.318539 1.32119,-1.318539 0.72789,0 1.32056,0.591628 1.32056,1.318539 0,0.72692 -0.59267,1.318547 -1.32056,1.318547 m 0,-5.401742 c -2.25543,0 -4.09074,1.832075 -4.09074,4.083195 0,0.438659 0.073,0.87507 0.21698,1.29926 l -13.51232,7.180144 c -0.7678,-1.104191 -2.01205,-1.759121 -3.35771,-1.759121 -1.55911,0 -2.98042,0.890487 -3.66806,2.282619 l -12.13962,-6.388637 c -1.28224,-0.673245 -2.24223,-2.781694 -2.1405,-4.700851 0.0528,-1.001037 0.39951,-1.778082 0.92716,-2.078234 0.33512,-0.189606 0.73817,-0.173213 1.16538,0.05043 l 0.0811,0.04245 c 3.21607,1.691639 13.74346,7.226743 14.18643,7.432093 0.6841,0.315892 1.06462,0.443797 2.22968,-0.10766 l 21.76111,-11.297407 c 0.31871,-0.120184 0.69053,-0.425156 0.69053,-0.88824 0,-0.642718 -0.66543,-0.896271 -0.66736,-0.896271 -1.23717,-0.592266 -3.14009,-1.48147 -4.99537,-2.3485 -3.96616,-1.853923 -8.46157,-3.954971 -10.43564,-4.986861 -1.70429,-0.890488 -3.07635,-0.139791 -3.32102,0.0119 l -0.47517,0.234912 c -8.88491,4.385918 -20.77535,10.264234 -21.45204,10.67558 -1.21239,0.736237 -1.96313,2.202918 -2.06036,4.024066 -0.15162,2.886779 1.32378,5.896311 3.43241,7.000502 l 12.83659,6.608449 c 0.28909,1.999178 2.01302,3.496394 4.04472,3.496394 2.2345,0 4.05662,-1.798327 4.0901,-4.021177 l 14.13783,-7.648365 c 0.71693,0.559163 1.60546,0.865745 2.51587,0.865745 2.25511,0 4.09043,-1.831756 4.09043,-4.083203 0,-2.251121 -1.83532,-4.083196 -4.09043,-4.083196"
-         style="fill:#3681fc;stroke-width:0.12463388"
-         inkscape:connector-curvature="0" />
-      <path
-         id="path20997"
-         d="m 402.76659,111.27166 c -11.50497,0 -20.8235,9.31851 -20.8235,20.8235 0,9.21439 5.96073,16.99718 14.23808,19.75629 1.04117,0.18221 1.43161,-0.4425 1.43161,-0.98911 0,-0.49457 -0.026,-2.13442 -0.026,-3.87838 -5.2319,0.96309 -6.58543,-1.27544 -7.0019,-2.44677 -0.23426,-0.59867 -1.24941,-2.44676 -2.13441,-2.94131 -0.72882,-0.39045 -1.76999,-1.35353 -0.026,-1.37956 1.63985,-0.026 2.81117,1.5097 3.20161,2.13441 1.87411,3.14955 4.86749,2.26456 6.06484,1.71794 0.1822,-1.35354 0.72883,-2.26456 1.3275,-2.78514 -4.63323,-0.5206 -9.47469,-2.31662 -9.47469,-10.28161 0,-2.26456 0.80691,-4.13867 2.13441,-5.59632 -0.20823,-0.52058 -0.93706,-2.65499 0.20824,-5.51822 0,0 1.74397,-0.54662 5.72645,2.13442 1.66589,-0.46854 3.43589,-0.7028 5.20588,-0.7028 1.77,0 3.53999,0.23426 5.20588,0.7028 3.98249,-2.70706 5.72645,-2.13442 5.72645,-2.13442 1.1453,2.86323 0.41648,4.99764 0.20824,5.51822 1.32749,1.45765 2.13441,3.30574 2.13441,5.59632 0,7.99102 -4.86749,9.76101 -9.50073,10.28161 0.75486,0.65072 1.4056,1.90014 1.4056,3.85234 0,2.78515 -0.026,5.02366 -0.026,5.72647 0,0.54661 0.39043,1.19734 1.43161,0.98911 8.22529,-2.75911 14.18601,-10.56792 14.18601,-19.75629 0,-11.50499 -9.31851,-20.8235 -20.8235,-20.8235 z"
-         style="clip-rule:evenodd;fill:#1b1f23;fill-rule:evenodd;stroke-width:2.60293674"
-         inkscape:connector-curvature="0" />
-    </g>
     <flowRoot
        xml:space="preserve"
        id="flowRoot4195-4"
@@ -6957,47 +6911,223 @@
    id="flowSpan2538">semantic versioning</flowSpan>. In case that the parent KM of the customization gets updated, you can easily migrate your customization by just picking the changes you want to adopt. Until you migrate, the published KM will be still available but marked as outdated. The updates get to all customizations in the KM forest in this efficient but simple way. </flowPara></flowRoot>    <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:12.5px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.9375"
-       x="363.23853"
-       y="192.92999"
+       x="361.36353"
+       y="723.55499"
        id="text2427"><tspan
          sodipodi:role="line"
          id="tspan2425"
-         x="363.23853"
-         y="192.92999"
+         x="361.36353"
+         y="723.55499"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;font-family:Roboto;-inkscape-font-specification:Roboto;stroke-width:0.9375"><tspan
    style="font-weight:bold"
    id="tspan2429">DOI:</tspan> 10.5281/zenodo.2000535</tspan></text>
+    <g
+       id="g2525"
+       transform="translate(-1.7388244)">
+      <text
+         id="text3793"
+         y="62.127014"
+         x="459.67749"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:0%;font-family:Roboto;-inkscape-font-specification:'Roboto Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:20px;line-height:1.25;font-family:Roboto;-inkscape-font-specification:'Roboto Bold'"
+           y="62.127014"
+           x="459.67749"
+           id="tspan3795"
+           sodipodi:role="line">info@ds-wizard.org</tspan></text>
+      <text
+         id="text3797"
+         y="168.93985"
+         x="459.67749"
+         style="font-style:normal;font-weight:normal;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:20px;line-height:1.25;font-family:Roboto;-inkscape-font-specification:'Roboto Bold'"
+           y="168.93985"
+           x="459.67749"
+           id="tspan3799"
+           sodipodi:role="line"><tspan
+   id="tspan3803"
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;font-family:Roboto;-inkscape-font-specification:'Roboto Bold'">github.com/</tspan>ds-wizard</tspan></text>
+      <text
+         id="text3797-2"
+         y="115.53343"
+         x="459.67749"
+         style="font-style:normal;font-weight:normal;font-size:12px;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:20px;line-height:1.25;font-family:Roboto;-inkscape-font-specification:'Roboto Bold';stroke-width:1px"
+           y="115.53343"
+           x="459.67749"
+           id="tspan3799-5"
+           sodipodi:role="line">docs.ds-wizard.org</tspan></text>
+      <path
+         id="Fill-1"
+         d="m 407.20465,120.88834 c 0.72851,0 1.32119,0.59162 1.32119,1.31854 0,0.7266 -0.59268,1.31822 -1.32119,1.31822 -0.72821,0 -1.32088,-0.59162 -1.32088,-1.31822 0,-0.72692 0.59267,-1.31854 1.32088,-1.31854 m 20.74379,-8.16672 c -0.72852,0 -1.32119,-0.59162 -1.32119,-1.31854 0,-0.72691 0.59267,-1.31854 1.32119,-1.31854 0.72789,0 1.32056,0.59163 1.32056,1.31854 0,0.72692 -0.59267,1.31854 -1.32056,1.31854 m 0,-5.40174 c -2.25543,0 -4.09074,1.83208 -4.09074,4.0832 0,0.43866 0.073,0.87507 0.21698,1.29926 l -13.51232,7.18014 c -0.7678,-1.10419 -2.01205,-1.75912 -3.35771,-1.75912 -1.55911,0 -2.98042,0.89049 -3.66806,2.28262 l -12.13962,-6.38864 c -1.28224,-0.67324 -2.24223,-2.78169 -2.1405,-4.70085 0.0528,-1.00103 0.39951,-1.77808 0.92716,-2.07823 0.33512,-0.18961 0.73817,-0.17321 1.16538,0.0504 l 0.0811,0.0424 c 3.21607,1.69164 13.74346,7.22674 14.18643,7.43209 0.6841,0.31589 1.06462,0.4438 2.22968,-0.10766 l 21.76111,-11.29741 c 0.31871,-0.12018 0.69053,-0.42515 0.69053,-0.88824 0,-0.64271 -0.66543,-0.89627 -0.66736,-0.89627 -1.23717,-0.59226 -3.14009,-1.48147 -4.99537,-2.348501 -3.96616,-1.85392 -8.46157,-3.954968 -10.43564,-4.986858 -1.70429,-0.890488 -3.07635,-0.139791 -3.32102,0.0119 l -0.47517,0.234912 c -8.88491,4.385916 -20.77535,10.264237 -21.45204,10.675577 -1.21239,0.73624 -1.96313,2.20292 -2.06036,4.02407 -0.15162,2.88678 1.32378,5.89631 3.43241,7.0005 l 12.83659,6.60845 c 0.28909,1.99918 2.01302,3.49639 4.04472,3.49639 2.2345,0 4.05662,-1.79832 4.0901,-4.02117 l 14.13783,-7.64837 c 0.71693,0.55917 1.60546,0.86575 2.51587,0.86575 2.25511,0 4.09043,-1.83176 4.09043,-4.08321 0,-2.25112 -1.83532,-4.08319 -4.09043,-4.08319"
+         style="fill:#3681fc;stroke-width:0.12463388"
+         inkscape:connector-curvature="0" />
+      <path
+         id="path20997"
+         d="m 409.45948,143.14667 c -11.50497,0 -20.8235,9.31851 -20.8235,20.8235 0,9.21439 5.96073,16.99718 14.23808,19.75629 1.04117,0.18221 1.43161,-0.4425 1.43161,-0.98911 0,-0.49457 -0.026,-2.13442 -0.026,-3.87838 -5.2319,0.96309 -6.58543,-1.27544 -7.0019,-2.44677 -0.23426,-0.59867 -1.24941,-2.44676 -2.13441,-2.94131 -0.72882,-0.39045 -1.76999,-1.35353 -0.026,-1.37956 1.63985,-0.026 2.81117,1.5097 3.20161,2.13441 1.87411,3.14955 4.86749,2.26456 6.06484,1.71794 0.1822,-1.35354 0.72883,-2.26456 1.3275,-2.78514 -4.63323,-0.5206 -9.47469,-2.31662 -9.47469,-10.28161 0,-2.26456 0.80691,-4.13867 2.13441,-5.59632 -0.20823,-0.52058 -0.93706,-2.65499 0.20824,-5.51822 0,0 1.74397,-0.54662 5.72645,2.13442 1.66589,-0.46854 3.43589,-0.7028 5.20588,-0.7028 1.77,0 3.53999,0.23426 5.20588,0.7028 3.98249,-2.70706 5.72645,-2.13442 5.72645,-2.13442 1.1453,2.86323 0.41648,4.99764 0.20824,5.51822 1.32749,1.45765 2.13441,3.30574 2.13441,5.59632 0,7.99102 -4.86749,9.76101 -9.50073,10.28161 0.75486,0.65072 1.4056,1.90014 1.4056,3.85234 0,2.78515 -0.026,5.02366 -0.026,5.72647 0,0.54661 0.39043,1.19734 1.43161,0.98911 8.22529,-2.75911 14.18601,-10.56792 14.18601,-19.75629 0,-11.50499 -9.31851,-20.8235 -20.8235,-20.8235 z"
+         style="clip-rule:evenodd;fill:#1b1f23;fill-rule:evenodd;stroke-width:2.60293674"
+         inkscape:connector-curvature="0" />
+      <g
+         id="email"
+         transform="matrix(0.775238,0,0,0.775238,374.57382,19.749864)">
+        <rect
+           style="fill:#999999"
+           x="22"
+           y="39.25"
+           width="46"
+           height="24.92"
+           id="rect8" />
+        <polygon
+           style="fill:#999999"
+           points="22,39.3 45,22 68,39.3 "
+           id="polygon10" />
+        <polygon
+           style="fill:#ffffff;stroke:#808080;stroke-width:0.30000001;stroke-miterlimit:4;stroke-dasharray:none"
+           points="57.57,25.92 25.55,25.92 25.55,56.52 64.44,56.52 64.44,33.34 "
+           id="polygon12" />
+        <polygon
+           transform="translate(-0.07,0.11797597)"
+           style="fill:#e0e0e0"
+           points="57.57,33.34 64.44,33.34 57.57,25.92 "
+           id="polygon14" />
+        <polygon
+           style="fill:#999999;stroke:#ffffff;stroke-width:0.30000001;stroke-miterlimit:4;stroke-dasharray:none"
+           points="68,68 45,52.67 68,39.25 "
+           id="polygon16" />
+        <polygon
+           style="fill:#999999;stroke:#ffffff;stroke-width:0.30000001;stroke-miterlimit:4;stroke-dasharray:none"
+           points="22,68 22,39.25 45,52.67 "
+           id="polygon18" />
+        <polygon
+           style="fill:#999999;fill-opacity:1;stroke:#ffffff;stroke-width:0.30000001;stroke-miterlimit:4;stroke-dasharray:none"
+           points="22,68 45,52.67 68,68 "
+           id="polygon20" />
+        <path
+           style="fill:#fc6e51"
+           inkscape:connector-curvature="0"
+           d="m 45,31.59 a 7.66,7.66 0 1 0 5,13.5 l -1,-1.17 a 6.13,6.13 0 1 1 2.16,-4.67 v 1.15 a 1.15,1.15 0 0 1 -2.3,0 v -5 H 47.3 v 0.79 A 3.8,3.8 0 0 0 45,35.4 a 3.83,3.83 0 1 0 2.76,6.48 2.68,2.68 0 0 0 4.87,-1.11 v 0 -1.52 A 7.67,7.67 0 0 0 45,31.59 Z m 0,10 a 2.3,2.3 0 1 1 2.3,-2.3 2.3,2.3 0 0 1 -2.3,2.26 z"
+           id="path22-1" />
+      </g>
+    </g>
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot4195-4-6-6-0-2"
+       style="font-style:normal;font-weight:normal;line-height:0.01%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       transform="translate(22.192277,32.833319)"><flowRegion
+         id="flowRegion4197-2-6-2-9-3"><rect
+           id="rect4199-4-7-2-3-3"
+           width="285.66962"
+           height="51.562508"
+           x="17.142857"
+           y="98.380203" /></flowRegion><flowPara
+         id="flowPara4201-2-6-3-1-9"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:15px;line-height:1.25;font-family:Roboto;-inkscape-font-specification:'Roboto Bold';text-align:justify;text-anchor:start">Create and edit knowledge models directly in the Wizard</flowPara><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:15px;line-height:1.25;font-family:Roboto;-inkscape-font-specification:'Roboto Bold';text-align:justify;text-anchor:start"
+         id="flowPara1845" /></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot4195-4-6-6-0-2-6"
+       style="font-style:normal;font-weight:normal;line-height:0.01%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       transform="translate(22.192277,75.355642)"><flowRegion
+         id="flowRegion4197-2-6-2-9-3-4"><rect
+           id="rect4199-4-7-2-3-3-5"
+           width="285.66962"
+           height="100.44643"
+           x="17.142857"
+           y="98.380203" /></flowRegion><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:15px;line-height:1.25;font-family:Roboto;-inkscape-font-specification:'Roboto Bold';text-align:justify;text-anchor:start"
+         id="flowPara1845-0">Easily customize an existing knowledge model</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot4195-4-6-6-0-2-6-5"
+       style="font-style:normal;font-weight:normal;line-height:0.01%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       transform="translate(22.192277,117.87797)"><flowRegion
+         id="flowRegion4197-2-6-2-9-3-4-8"><rect
+           id="rect4199-4-7-2-3-3-5-0"
+           width="284.99997"
+           height="40.178574"
+           x="17.142857"
+           y="98.380203" /></flowRegion><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:15px;line-height:1.25;font-family:Roboto;-inkscape-font-specification:'Roboto Bold';text-align:justify;text-anchor:start"
+         id="flowPara1845-0-8">Selectively propagate changes from parent to customization</flowPara></flowRoot>    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:12.50000095px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.9375"
+       x="16.039621"
+       y="159.76338"
+       id="text1934"><tspan
+         sodipodi:role="line"
+         id="tspan1932"
+         x="16.039621"
+         y="159.76338"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:27.5px;font-family:Roboto;-inkscape-font-specification:'Roboto Bold';stroke-width:0.9375">•</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:12.50000095px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.9375"
+       x="16.039621"
+       y="202.28571"
+       id="text1934-5"><tspan
+         sodipodi:role="line"
+         id="tspan1932-2"
+         x="16.039621"
+         y="202.28571"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:27.5px;font-family:Roboto;-inkscape-font-specification:'Roboto Bold';stroke-width:0.9375">•</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:12.50000095px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.9375"
+       x="16.039621"
+       y="244.31363"
+       id="text1934-5-2"><tspan
+         sodipodi:role="line"
+         id="tspan1932-2-5"
+         x="16.039621"
+         y="244.31363"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:27.5px;font-family:Roboto;-inkscape-font-specification:'Roboto Bold';stroke-width:0.9375">•</tspan></text>
   </g>
-  <text
-     xml:space="preserve"
-     style="font-style:normal;font-weight:normal;font-size:11.46825027px;line-height:1.25;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.86011881"
-     x="875.41638"
-     y="283.47229"
-     id="text19286"><tspan
-       sodipodi:role="line"
-       id="tspan19284"
-       x="879.16638"
-       y="283.47229"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30px;font-family:ROboto;-inkscape-font-specification:'ROboto Bold';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke-width:0.86011881">Tool for Smart Data </tspan><tspan
-       sodipodi:role="line"
-       x="875.41638"
-       y="320.97229"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30px;font-family:ROboto;-inkscape-font-specification:'ROboto Bold';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke-width:0.86011881"
-       id="tspan2418">Management Plans</tspan><tspan
-       sodipodi:role="line"
-       x="875.41638"
-       y="358.47229"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:30px;font-family:ROboto;-inkscape-font-specification:'ROboto Bold';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke-width:0.86011881"
-       id="tspan19288">for FAIR Open Science</tspan></text>
   <text
      xml:space="preserve"
      style="font-style:normal;font-weight:normal;font-size:13.67284584px;line-height:1.25;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#f15a24;fill-opacity:1;stroke:none;stroke-width:1.02546346"
      x="520.84216"
-     y="472.9028"
+     y="461.6528"
      id="text19286-8"><tspan
        sodipodi:role="line"
        x="520.84216"
-       y="472.9028"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:24.61112213px;font-family:ROboto;-inkscape-font-specification:'ROboto Bold';text-align:center;text-anchor:middle;fill:#f15a24;fill-opacity:1;stroke-width:1.02546346;"
+       y="461.6528"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:24.61112213px;font-family:ROboto;-inkscape-font-specification:'ROboto Bold';text-align:center;text-anchor:middle;fill:#f15a24;fill-opacity:1;stroke-width:1.02546346"
        id="tspan19288-6">Explore, learn, and be FAIR!</tspan></text>
+  <g
+     id="g2537"
+     transform="translate(0,-7.1217003)">
+    <text
+       id="text19286"
+       y="283.47229"
+       x="875.41638"
+       style="font-style:normal;font-weight:normal;font-size:11.46825027px;line-height:1.25;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.86011881"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:35px;font-family:ROboto;-inkscape-font-specification:'ROboto Bold';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke-width:0.86011881"
+         y="283.47229"
+         x="879.79138"
+         id="tspan19284"
+         sodipodi:role="line">Smart Data </tspan><tspan
+         id="tspan2418"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:35px;font-family:ROboto;-inkscape-font-specification:'ROboto Bold';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke-width:0.86011881"
+         y="327.22229"
+         x="875.41638"
+         sodipodi:role="line">Management Plans</tspan><tspan
+         id="tspan19288"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:27.5px;font-family:ROboto;-inkscape-font-specification:'ROboto Bold';text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke-width:0.86011881"
+         y="350.81012"
+         x="875.41638"
+         sodipodi:role="line" /></text>
+    <text
+       id="text2529"
+       y="376.65152"
+       x="738.92224"
+       style="font-style:normal;font-weight:normal;font-size:12.5px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.9375"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:27.5px;font-family:Roboto;-inkscape-font-specification:'Roboto Bold';stroke-width:0.9375"
+         y="376.65152"
+         x="738.92224"
+         id="tspan2527"
+         sodipodi:role="line">for FAIR Open Science</tspan></text>
+  </g>
 </svg>
