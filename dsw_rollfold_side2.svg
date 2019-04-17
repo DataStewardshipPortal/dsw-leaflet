@@ -16,7 +16,10 @@
    version="1.1"
    inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
    enable-background="new"
-   sodipodi:docname="dsw_rollfold_side2.svg">
+   sodipodi:docname="dsw_rollfold_side2.svg"
+   inkscape:export-filename="R:\02.png"
+   inkscape:export-xdpi="215"
+   inkscape:export-ydpi="215">
   <title
      id="title2701">DS Wizard - leaflet (side 2)</title>
   <defs
@@ -731,9 +734,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.98994949"
-     inkscape:cx="502.73867"
-     inkscape:cy="503.0244"
+     inkscape:zoom="0.7"
+     inkscape:cx="477.1067"
+     inkscape:cy="337.49602"
      inkscape:document-units="px"
      inkscape:current-layer="layer2"
      showgrid="false"
@@ -861,14 +864,14 @@
        width="318.89764"
        height="708.66144"
        x="17.243044"
-       y="342.55704" />
+       y="325.98425" />
     <rect
        style="opacity:1;fill:#0055d4;fill-opacity:1;stroke:none;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="rect4269"
        width="318.89764"
        height="708.66144"
        x="372.04727"
-       y="325.98422" />
+       y="325.98425" />
     <rect
        style="opacity:1;fill:#a0892c;fill-opacity:1;stroke:none;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="rect4271"
@@ -896,7 +899,7 @@
        xml:space="preserve"
        id="flowRoot4211"
        style="font-style:normal;font-weight:normal;line-height:0.01%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       transform="translate(0.03662976,439.00907)"><flowRegion
+       transform="translate(0.03662976,441.80058)"><flowRegion
          id="flowRegion4213"><rect
            id="rect4215"
            width="317.1879"
@@ -913,10 +916,8 @@
    id="flowSpan1744">FAIR metrics</flowSpan>. Answers are designed to be evaluated easily via various <flowSpan
    style="font-weight:bold"
    id="flowSpan1746">external integrated services</flowSpan> within the DSW that we call evaluators.</flowPara><flowPara
-         id="flowPara4219"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;line-height:1.25;font-family:Roboto;-inkscape-font-specification:Roboto;text-align:justify;text-anchor:start"> </flowPara><flowPara
          id="flowPara4221"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;line-height:1.25;font-family:Roboto;-inkscape-font-specification:Roboto;text-align:justify;text-anchor:start"> </flowPara></flowRoot>    <flowRoot
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.5px;line-height:1.25;font-family:Roboto;-inkscape-font-specification:Roboto;text-align:justify;text-anchor:start" /></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot4231"
        style="font-style:normal;font-weight:normal;line-height:0.01%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -2245,7 +2246,7 @@
        xml:space="preserve"
        id="flowRoot4195-4"
        style="font-style:normal;font-weight:normal;line-height:0.01%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       transform="translate(1.652802,476.30641)"><flowRegion
+       transform="translate(1.652802,476.30644)"><flowRegion
          id="flowRegion4197-2"><rect
            id="rect4199-4"
            width="316.47321"
@@ -2300,7 +2301,7 @@
          id="tspan1731"
          x="683.70532"
          y="563.98077"
-         style="stroke-width:0.9375"></tspan><tspan
+         style="stroke-width:0.9375" /><tspan
          sodipodi:role="line"
          x="683.70532"
          y="579.60577"
@@ -2309,7 +2310,7 @@
     <g
        style="display:inline"
        id="g2490"
-       transform="translate(-0.45298214,5.9366163)">
+       transform="translate(-0.45298214,11.561616)">
       <flowRoot
          transform="translate(18.442277,32.833319)"
          style="font-style:normal;font-weight:normal;line-height:0.01%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -2337,7 +2338,7 @@
            sodipodi:role="line">•</tspan></text>
     </g>
     <g
-       transform="translate(-1.3589521,33.198215)"
+       transform="translate(-1.3589521,38.823215)"
        style="display:inline"
        id="g2490-9">
       <flowRoot
@@ -2365,7 +2366,7 @@
            sodipodi:role="line">•</tspan></text>
     </g>
     <g
-       transform="translate(-1.0241321,77.488621)"
+       transform="translate(-1.0241321,83.113621)"
        style="display:inline"
        id="g2490-8">
       <flowRoot
@@ -2395,7 +2396,7 @@
     <g
        style="display:inline"
        id="g2490-2"
-       transform="translate(354.45772,5.9366163)">
+       transform="translate(354.45772,11.561616)">
       <flowRoot
          transform="translate(18.442277,32.833319)"
          style="font-style:normal;font-weight:normal;line-height:0.01%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -2425,7 +2426,7 @@
            sodipodi:role="line">•</tspan></text>
     </g>
     <g
-       transform="translate(353.55175,50.303928)"
+       transform="translate(353.55175,55.928928)"
        style="display:inline"
        id="g2490-9-6">
       <flowRoot
@@ -2455,7 +2456,7 @@
            sodipodi:role="line">•</tspan></text>
     </g>
     <g
-       transform="translate(353.88657,94.590672)"
+       transform="translate(353.88657,100.21567)"
        style="display:inline"
        id="g2490-8-0">
       <flowRoot
@@ -2485,7 +2486,7 @@
     <g
        style="display:inline"
        id="g2490-93"
-       transform="translate(708.6988,6.0904249)">
+       transform="translate(708.6988,11.715425)">
       <flowRoot
          transform="translate(18.442277,32.833319)"
          style="font-style:normal;font-weight:normal;line-height:0.01%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -2513,7 +2514,7 @@
            sodipodi:role="line">•</tspan></text>
     </g>
     <g
-       transform="translate(707.79283,35.303928)"
+       transform="translate(707.79283,40.928928)"
        style="display:inline"
        id="g2490-9-8">
       <flowRoot
@@ -2543,7 +2544,7 @@
            sodipodi:role="line">•</tspan></text>
     </g>
     <g
-       transform="translate(708.12765,79.363621)"
+       transform="translate(708.12765,84.988621)"
        style="display:inline"
        id="g2490-8-4">
       <flowRoot
